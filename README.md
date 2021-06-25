@@ -8,5 +8,6 @@ Must Install - NuGet Package Manager
 
 Commands to create the database using Entity Framework
 > Add-Migration 'Name Here'
+> 
 > Update-Database
 
